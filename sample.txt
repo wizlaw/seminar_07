@@ -1,1 +1,1 @@
-This is original sample(new_bran) file. 
+This is original sample(main + new_bran) file. 
